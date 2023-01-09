@@ -1,0 +1,6 @@
+framework module Pods_prueba_ceiba_prueba_ceibaUITests {
+  umbrella header "Pods-prueba_ceiba-prueba_ceibaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
